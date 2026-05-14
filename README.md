@@ -33,6 +33,6 @@ Para ganar el sistema debe detectar una fila de 3 o una diagonal de 3 simbolos i
 ---
 
 ## 🌐 Arte ASCII, funciones y EasterEgg
-
+El arcade debe verse bien esteticamente en consola, por eso se implementara arte ASCII para lograr esto, aparte de que cada apartado del codigo se realizara mediante funciones y finalmente se hará un EasterEgg que consiste en que si el jugador ingresa como apuesta el valor "777" o ingresa el nombre "LUCKY" como usuario, las probabilidades de ganar se doblaran por 3 turnos consecutivos
 
 ---
