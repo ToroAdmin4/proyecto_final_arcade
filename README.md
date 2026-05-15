@@ -23,7 +23,7 @@ Se implementaran una funcionalidad de persistencia en el programa, lo que hara q
 ---
 
 ## 📊 La pantalla
-La "ventana" de la maquina será una matriz de 3x3 que definira un arreglo de simbolos, y que al girar se reemplazaran los simbolos de manera aleatori
+La "ventana" de la maquina será una matriz de 3x3 que definira un arreglo de simbolos, y que al girar se reemplazaran los simbolos de manera aleatoria
 
 ---
 
