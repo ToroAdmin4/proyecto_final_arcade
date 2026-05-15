@@ -8,7 +8,7 @@ Repositorio para realizar el taller final de la maquina tragamonedas
 
 -Jerónimo Toro 
 
--Hector Stiven Espinoza
+-Hector Stiven Espinosa
 
 ---
 
