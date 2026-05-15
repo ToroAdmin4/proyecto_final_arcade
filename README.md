@@ -18,7 +18,7 @@ Este repositorio tendra la solucion al taller final de la maquina tragamonedas d
 ---
 
 ## ⚽ Persistencia
-Se implementaran una funcionalidad de persistencia en el programa, lo que hara que se recuerden nombres de usuario y su respectivo saldo asociado al usuari
+Se implementaran una funcionalidad de persistencia en el programa, lo que hara que se recuerden nombres de usuario y su respectivo saldo asociado al usuario
 
 ---
 
